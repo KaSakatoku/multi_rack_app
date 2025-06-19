@@ -1,9 +1,9 @@
 import streamlit as st
 import json
-from github import Github
+from github import Github, GithubException
 
 # GitHub連携情報
-REPO_NAME = "KaSakatoku/antibody-multi-rack-app"  # ← あなたの新リポジトリ名に変更
+REPO_NAME = "KaSakatoku/multi_rack_app"  # ← GitHub上の正確なリポジトリ名に合わせる
 FILE_PATH = "rack.json"
 g = Github(st.secrets["GITHUB_TOKEN"])
 repo = g.get_repo(REPO_NAME)
@@ -21,8 +21,12 @@ RACKS = {
 try:
     file = repo.get_contents(FILE_PATH, ref="heads/main")
     data = json.loads(file.decoded_content)
-except:
-    data = {name: {} for name in RACKS}
+except GithubException as e:
+    if e.status == 404:
+        data = {name: {} for name in RACKS}
+    else:
+        st.error(f"初期読み込みエラー：{e}")
+        raise e
 
 # UI表示
 st.set_page_config(layout="wide")
@@ -66,10 +70,17 @@ if st.session_state.selected:
                 content=json.dumps(data, indent=2),
                 sha=file.sha
             )
-        except Exception as e:
-            repo.create_file(
-                path=FILE_PATH,
-                message=f"create {rack_name} {pos}",
-                content=json.dumps(data, indent=2)
-            )
-        st.success("保存しました。リロードで反映されます。")
+        except GithubException as e:
+            if e.status == 409:
+                st.error("GitHub上のファイルが別のセッションで更新されました。ページを更新してください。")
+            elif e.status == 404:
+                repo.create_file(
+                    path=FILE_PATH,
+                    message=f"create {rack_name} {pos}",
+                    content=json.dumps(data, indent=2)
+                )
+            else:
+                st.error(f"保存に失敗しました（{e.status}）：{e.data.get('message', '詳細不明')}。")
+                raise e
+
+        st.success("保存しました。ページを更新して反映を確認してください。")
