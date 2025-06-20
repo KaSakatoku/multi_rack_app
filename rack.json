@@ -111,6 +111,11 @@
       "name": "CD220 Biotin",
       "clone": "",
       "fluor": ""
+    },
+    "B2": {
+      "name": "DX5 Biotin",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No3": {},
