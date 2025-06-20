@@ -141,6 +141,11 @@
       "name": "CD31 Biotin",
       "clone": "",
       "fluor": ""
+    },
+    "C4": {
+      "name": "Rank (CD265) Biotin",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No3": {},
