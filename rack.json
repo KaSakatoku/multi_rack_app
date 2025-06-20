@@ -34,6 +34,11 @@
       "name": "CD8a FITC",
       "clone": "",
       "fluor": ""
+    },
+    "B3": {
+      "name": "CD4 APCFire750",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {},
