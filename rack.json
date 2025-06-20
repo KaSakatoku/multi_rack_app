@@ -124,6 +124,11 @@
       "name": "CD25 FITC",
       "clone": "",
       "fluor": ""
+    },
+    "F1": {
+      "name": "CD25 PB",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {
