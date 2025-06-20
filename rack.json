@@ -3,5 +3,11 @@
   "No2": {},
   "No3": {},
   "No4": {},
-  "Stock Box": {}
+  "Stock Box": {
+    "A1": {
+      "name": "aaa",
+      "clone": "",
+      "fluor": ""
+    }
+  }
 }
