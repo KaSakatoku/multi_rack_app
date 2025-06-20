@@ -8,12 +8,12 @@ FILE_PATH = "rack.json"
 g = Github(st.secrets["GITHUB_TOKEN"])
 repo = g.get_repo(REPO_NAME)
 
-# ラック定義（No1〜4：5x16、Stock Box：10x10）
+# ラック定義（No1〜4：5x16 → 縦長表示、Stock Box：10x10）
 RACKS = {
-    "No1": (5, 16),
-    "No2": (5, 16),
-    "No3": (5, 16),
-    "No4": (5, 16),
+    "No1": (16, 5),
+    "No2": (16, 5),
+    "No3": (16, 5),
+    "No4": (16, 5),
     "Stock Box": (10, 10),
 }
 
