@@ -126,6 +126,11 @@
       "name": "CD11b Biotin",
       "clone": "",
       "fluor": ""
+    },
+    "B5": {
+      "name": "CD11c Biotin",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No3": {},
