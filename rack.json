@@ -94,6 +94,11 @@
       "name": "CD11b BV421",
       "clone": "",
       "fluor": ""
+    },
+    "D5": {
+      "name": "CD19 PE",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {
