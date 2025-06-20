@@ -29,6 +29,11 @@
       "name": "CD8a BV421",
       "clone": "",
       "fluor": ""
+    },
+    "B2": {
+      "name": "CD8a FITC",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {},
