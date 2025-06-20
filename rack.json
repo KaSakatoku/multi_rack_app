@@ -49,6 +49,11 @@
       "name": "CD8 PerCPCy5.5",
       "clone": "",
       "fluor": ""
+    },
+    "C1": {
+      "name": "CD11b BV480",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {},
