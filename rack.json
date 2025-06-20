@@ -24,6 +24,11 @@
       "name": "CD4 BV650 RM4-5",
       "clone": "",
       "fluor": ""
+    },
+    "B1": {
+      "name": "CD8a BV421",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {},
