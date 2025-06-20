@@ -129,6 +129,11 @@
       "name": "CD25 PB",
       "clone": "",
       "fluor": ""
+    },
+    "F2": {
+      "name": "CD25 PECy5.5",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {
