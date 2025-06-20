@@ -144,6 +144,11 @@
       "name": "CD27 APC",
       "clone": "",
       "fluor": ""
+    },
+    "F5": {
+      "name": "CD27 BV605",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {
