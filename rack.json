@@ -39,6 +39,11 @@
       "name": "CD4 APCFire750",
       "clone": "",
       "fluor": ""
+    },
+    "B4": {
+      "name": "CD4 PE",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {},
