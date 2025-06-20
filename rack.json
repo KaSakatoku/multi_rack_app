@@ -69,6 +69,11 @@
       "name": "CD11b PECy7",
       "clone": "",
       "fluor": ""
+    },
+    "C5": {
+      "name": "CD11b BV786",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {},
