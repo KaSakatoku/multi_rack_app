@@ -149,6 +149,11 @@
       "name": "CD27 BV605",
       "clone": "",
       "fluor": ""
+    },
+    "G1": {
+      "name": "CD44 BV421",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {
