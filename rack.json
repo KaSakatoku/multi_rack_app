@@ -99,6 +99,11 @@
       "name": "CD19 PE",
       "clone": "",
       "fluor": ""
+    },
+    "E1": {
+      "name": "CD19 FITC",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {
