@@ -104,6 +104,11 @@
       "name": "CD19 FITC",
       "clone": "",
       "fluor": ""
+    },
+    "E2": {
+      "name": "CD19 BV421",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {
