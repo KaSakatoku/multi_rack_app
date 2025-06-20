@@ -48,10 +48,11 @@ for rack_name in RACKS:
         cols = st.columns([1] * COLS)
         for j in range(COLS):
             pos = f"{chr(65+i)}{j+1}"
-            ab = rack.get(pos, {"name": "", "clone": "", "fluor": ""})
+            ab = rack.get(pos, {"name": "", "clone": "", "fluor": "", "in_use": False})
             label = ab["name"] if ab["name"] else pos
-            highlight = search.lower() in f"{ab['name']} {ab['clone']} {ab['fluor']}".lower()
-            if cols[j].button(label, key=f"{rack_name}_{pos}"):
+            highlight = search.lower() in f"{ab['name']} {ab['clone']} {ab['fluor']}`.lower()
+            button_label = f"✅ {label}" if ab.get("in_use") else label
+            if cols[j].button(button_label, key=f"{rack_name}_{pos}"):
                 st.session_state.selected = (rack_name, pos)
             if highlight:
                 cols[j].markdown("<div style='height:5px;background-color:lime;'></div>", unsafe_allow_html=True)
@@ -61,11 +62,12 @@ if st.session_state.selected:
     rack_name, pos = st.session_state.selected
     st.divider()
     st.subheader(f"✏️ 編集: {rack_name} - {pos}")
-    ab = data[rack_name].get(pos, {"name": "", "clone": "", "fluor": ""})
+    ab = data[rack_name].get(pos, {"name": "", "clone": "", "fluor": "", "in_use": False})
 
     ab["name"] = st.text_input("抗体名", ab["name"])
     ab["clone"] = st.text_input("クローン", ab["clone"])
     ab["fluor"] = st.text_input("蛍光色素", ab["fluor"])
+    ab["in_use"] = st.checkbox("使用中", ab.get("in_use", False))
 
     if st.button("保存"):
         data[rack_name][pos] = ab
