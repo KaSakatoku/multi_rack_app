@@ -139,6 +139,11 @@
       "name": "CD44 FITC",
       "clone": "",
       "fluor": ""
+    },
+    "F4": {
+      "name": "CD27 APC",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {
