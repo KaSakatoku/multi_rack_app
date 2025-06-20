@@ -19,6 +19,11 @@
       "name": "CD4 APC",
       "clone": "",
       "fluor": ""
+    },
+    "A5": {
+      "name": "CD4 BV650 RM4-5",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {},
