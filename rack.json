@@ -136,6 +136,11 @@
       "name": "IA/IE Biotin",
       "clone": "",
       "fluor": ""
+    },
+    "C2": {
+      "name": "ckit Biotin",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No3": {},
