@@ -50,7 +50,7 @@ for rack_name in RACKS:
             pos = f"{chr(65+i)}{j+1}"
             ab = rack.get(pos, {"name": "", "clone": "", "fluor": "", "in_use": False})
             label = ab["name"] if ab["name"] else pos
-            highlight = search.lower() in f"{ab['name']} {ab['clone']} {ab['fluor']}`.lower()
+            highlight = search.lower() in f"{ab['name']} {ab['clone']} {ab['fluor']}".lower()
             button_label = f"✅ {label}" if ab.get("in_use") else label
             if cols[j].button(button_label, key=f"{rack_name}_{pos}"):
                 st.session_state.selected = (rack_name, pos)
