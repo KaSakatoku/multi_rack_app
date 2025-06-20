@@ -121,6 +121,11 @@
       "name": "SiglecF Biotin",
       "clone": "",
       "fluor": ""
+    },
+    "B4": {
+      "name": "CD11b Biotin",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No3": {},
