@@ -54,6 +54,11 @@
       "name": "CD11b BV480",
       "clone": "",
       "fluor": ""
+    },
+    "C2": {
+      "name": "CD11b PE",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {},
