@@ -116,6 +116,11 @@
       "name": "DX5 Biotin",
       "clone": "",
       "fluor": ""
+    },
+    "B3": {
+      "name": "SiglecF Biotin",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No3": {},
