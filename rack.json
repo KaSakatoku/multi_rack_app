@@ -74,6 +74,11 @@
       "name": "CD11b BV786",
       "clone": "",
       "fluor": ""
+    },
+    "D1": {
+      "name": "CD11c BV421",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {},
