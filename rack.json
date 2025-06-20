@@ -134,6 +134,11 @@
       "name": "CD25 PECy5.5",
       "clone": "",
       "fluor": ""
+    },
+    "F3": {
+      "name": "CD44 FITC",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {
