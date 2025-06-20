@@ -81,7 +81,13 @@
       "fluor": ""
     }
   },
-  "No2": {},
+  "No2": {
+    "A1": {
+      "name": "CD3e Biotin",
+      "clone": "",
+      "fluor": ""
+    }
+  },
   "No3": {},
   "No4": {},
   "Stock Box": {
