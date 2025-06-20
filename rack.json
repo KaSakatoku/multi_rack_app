@@ -151,6 +151,11 @@
       "name": "Ly6G Biotin",
       "clone": "",
       "fluor": ""
+    },
+    "C3": {
+      "name": "CD31 Biotin",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No3": {},
