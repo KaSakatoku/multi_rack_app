@@ -119,6 +119,11 @@
       "name": "CD25 PE",
       "clone": "",
       "fluor": ""
+    },
+    "E4": {
+      "name": "CD25 FITC",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {
