@@ -91,6 +91,11 @@
       "name": "CD4 Biotin",
       "clone": "",
       "fluor": ""
+    },
+    "A3": {
+      "name": "CD8 Biotin",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No3": {},
