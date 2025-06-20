@@ -86,6 +86,11 @@
       "name": "CD3e Biotin",
       "clone": "",
       "fluor": ""
+    },
+    "A2": {
+      "name": "CD4 Biotin",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No3": {},
