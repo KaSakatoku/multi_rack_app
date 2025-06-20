@@ -131,6 +131,11 @@
       "name": "CD11c Biotin",
       "clone": "",
       "fluor": ""
+    },
+    "C1": {
+      "name": "IA/IE Biotin",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No3": {},
