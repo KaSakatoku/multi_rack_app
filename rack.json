@@ -59,6 +59,11 @@
       "name": "CD11b PE",
       "clone": "",
       "fluor": ""
+    },
+    "C3": {
+      "name": "CD11b FITC",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {},
