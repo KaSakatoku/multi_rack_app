@@ -109,6 +109,11 @@
       "name": "CD19 BV421",
       "clone": "",
       "fluor": ""
+    },
+    "E3": {
+      "name": "CD23 PECy7",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {
