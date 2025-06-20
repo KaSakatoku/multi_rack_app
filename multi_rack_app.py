@@ -3,7 +3,7 @@ import json
 from github import Github, GithubException
 
 # GitHub連携情報
-REPO_NAME = "KaSakatoku/multi_rack_app"  # ← GitHub上の正確なリポジトリ名に合わせる
+REPO_NAME = "KaSakatoku/multi_rack_app"
 FILE_PATH = "rack.json"
 g = Github(st.secrets["GITHUB_TOKEN"])
 repo = g.get_repo(REPO_NAME)
@@ -35,7 +35,9 @@ st.title("🧪 抗体ラック管理アプリ（GitHub JSON形式・複数ラッ
 if "selected" not in st.session_state:
     st.session_state.selected = None
 
-for rack_name, (ROWS, COLS) in RACKS.items():
+# ラックを縦並びで表示
+for rack_name in RACKS:
+    ROWS, COLS = RACKS[rack_name]
     st.subheader(f"🧊 {rack_name}")
     rack = data.get(rack_name, {})
     positions = [f"{chr(65+i)}{j+1}" for i in range(ROWS) for j in range(COLS)]
