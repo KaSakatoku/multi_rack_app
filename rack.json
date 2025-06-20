@@ -6,9 +6,9 @@
       "fluor": ""
     },
     "A2": {
-      "name": "CD3e  APC",
+      "name": "CD3e ",
       "clone": "",
-      "fluor": ""
+      "fluor": "APC"
     }
   },
   "No2": {},
