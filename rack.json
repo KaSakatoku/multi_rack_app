@@ -14,6 +14,11 @@
       "name": "CD4 R718 RM4-4",
       "clone": "",
       "fluor": ""
+    },
+    "A4": {
+      "name": "CD4 APC",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {},
