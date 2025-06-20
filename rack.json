@@ -84,6 +84,11 @@
       "name": "CD11c RB705",
       "clone": "",
       "fluor": ""
+    },
+    "D3": {
+      "name": "CD11c PECy7",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No2": {
