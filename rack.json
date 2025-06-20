@@ -146,6 +146,11 @@
       "name": "Rank (CD265) Biotin",
       "clone": "",
       "fluor": ""
+    },
+    "C5": {
+      "name": "Ly6G Biotin",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No3": {},
