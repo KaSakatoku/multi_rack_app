@@ -35,6 +35,8 @@ st.title("🧪 抗体ラック管理アプリ（GitHub JSON形式・複数ラッ
 if "selected" not in st.session_state:
     st.session_state.selected = None
 
+search = st.text_input("🔍 検索（抗体名・クローン・蛍光色素）", "")
+
 # ラックを縦並びで表示
 for rack_name in RACKS:
     ROWS, COLS = RACKS[rack_name]
@@ -43,13 +45,16 @@ for rack_name in RACKS:
     positions = [f"{chr(65+i)}{j+1}" for i in range(ROWS) for j in range(COLS)]
 
     for i in range(ROWS):
-        cols = st.columns([0.5] * COLS)
+        cols = st.columns([1] * COLS)
         for j in range(COLS):
             pos = f"{chr(65+i)}{j+1}"
             ab = rack.get(pos, {"name": "", "clone": "", "fluor": ""})
             label = ab["name"] if ab["name"] else pos
+            highlight = search.lower() in f"{ab['name']} {ab['clone']} {ab['fluor']}`.lower()
             if cols[j].button(label, key=f"{rack_name}_{pos}"):
                 st.session_state.selected = (rack_name, pos)
+            if highlight:
+                cols[j].markdown("<div style='height:5px;background-color:lime;'></div>", unsafe_allow_html=True)
 
 # 編集フォーム
 if st.session_state.selected:
