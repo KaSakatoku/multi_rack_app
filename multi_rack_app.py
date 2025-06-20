@@ -43,7 +43,7 @@ for rack_name in RACKS:
     positions = [f"{chr(65+i)}{j+1}" for i in range(ROWS) for j in range(COLS)]
 
     for i in range(ROWS):
-        cols = st.columns(COLS, gap="small")
+        cols = st.columns(COLS, gap="tiny")
         for j in range(COLS):
             pos = f"{chr(65+i)}{j+1}"
             ab = rack.get(pos, {"name": "", "clone": "", "fluor": ""})
