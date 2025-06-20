@@ -9,7 +9,7 @@
       "name": "CD3e  APC",
       "clone": "",
       "fluor": "APC",
-      "in_use": true
+      "in_use": false
     },
     "A3": {
       "name": "CD4 R718 RM4-4",
