@@ -101,6 +101,11 @@
       "name": "CD90.2 Biotin",
       "clone": "",
       "fluor": ""
+    },
+    "A5": {
+      "name": "CD19 Biotin",
+      "clone": "",
+      "fluor": ""
     }
   },
   "No3": {},
