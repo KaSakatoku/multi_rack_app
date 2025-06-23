@@ -431,6 +431,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "P3": {
+      "name": "IA/IE PerCP",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
