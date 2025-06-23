@@ -239,6 +239,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "J1": {
+      "name": "CD45RB FITC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
