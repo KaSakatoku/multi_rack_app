@@ -305,6 +305,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "L2": {
+      "name": "CD62L FITC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
