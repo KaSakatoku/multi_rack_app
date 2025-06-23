@@ -227,6 +227,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "I4": {
+      "name": "CD45.1 PECy7",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
