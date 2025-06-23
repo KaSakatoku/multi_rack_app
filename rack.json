@@ -329,6 +329,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "M1": {
+      "name": "Ly6G FITC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
