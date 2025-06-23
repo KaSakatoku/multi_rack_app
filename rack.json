@@ -311,6 +311,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "L3": {
+      "name": "CD80 FITC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
