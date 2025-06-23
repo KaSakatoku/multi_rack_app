@@ -532,6 +532,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "D2": {
+      "name": "CD45.2 Biotin",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
