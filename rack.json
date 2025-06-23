@@ -568,6 +568,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "E4": {
+      "name": "CD48 Biotin",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
