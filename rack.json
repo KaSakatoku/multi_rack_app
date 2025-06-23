@@ -341,6 +341,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "M3": {
+      "name": "Ly6C Alexa488",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
