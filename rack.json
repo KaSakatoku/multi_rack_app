@@ -233,6 +233,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "I5": {
+      "name": "CD45.2 PerCPCy5.5",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
