@@ -544,6 +544,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "D5": {
+      "name": "RAM34 (CD34) Biotin",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
