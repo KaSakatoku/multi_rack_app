@@ -215,6 +215,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "I2": {
+      "name": "CD45.1 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
