@@ -203,6 +203,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "H5": {
+      "name": "CD45 PECy7",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
