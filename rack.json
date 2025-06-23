@@ -299,6 +299,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "L1": {
+      "name": "CD62L PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
