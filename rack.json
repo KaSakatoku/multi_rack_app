@@ -179,6 +179,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "H1": {
+      "name": "CD45.1 FITC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
