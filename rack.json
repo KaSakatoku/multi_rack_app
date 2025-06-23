@@ -562,6 +562,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "E3": {
+      "name": "Flt3 Biotin",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
