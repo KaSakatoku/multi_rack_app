@@ -556,6 +556,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "E2": {
+      "name": "SAV PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
