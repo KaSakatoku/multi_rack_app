@@ -437,6 +437,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "P4": {
+      "name": "IA/IE FITC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
