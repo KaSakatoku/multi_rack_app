@@ -538,6 +538,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "D3": {
+      "name": "H2K/H2D Biotin",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
