@@ -395,6 +395,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "O2": {
+      "name": "Ly6C R718",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
