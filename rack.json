@@ -155,6 +155,12 @@
       "name": "CD44 BV421",
       "clone": "",
       "fluor": ""
+    },
+    "G2": {
+      "name": "CD44 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
