@@ -598,6 +598,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "F4": {
+      "name": "SAV FITC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
