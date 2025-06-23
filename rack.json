@@ -173,6 +173,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "G5": {
+      "name": "CD45 APCFire",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
