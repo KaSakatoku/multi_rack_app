@@ -209,6 +209,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "I1": {
+      "name": "CD45.1 APC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
