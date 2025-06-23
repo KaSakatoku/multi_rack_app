@@ -604,6 +604,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "F5": {
+      "name": "IL-2 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
