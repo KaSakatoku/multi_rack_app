@@ -526,6 +526,12 @@
       "name": "CD31 Biotin",
       "clone": "",
       "fluor": ""
+    },
+    "D1": {
+      "name": "Ly6C Biotin",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
