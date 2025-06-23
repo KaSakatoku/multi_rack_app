@@ -353,6 +353,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "M5": {
+      "name": "Ly6C PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No2": {
