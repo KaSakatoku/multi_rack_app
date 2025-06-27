@@ -618,8 +618,8 @@
       "in_use": false
     },
     "G2": {
-      "name": "",
-      "clone": "IFN-\u03b3 PECy7",
+      "name": "IFN-\u03b3 PECy7",
+      "clone": "",
       "fluor": "",
       "in_use": false
     },
