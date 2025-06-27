@@ -846,6 +846,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "B5": {
+      "name": "CD90.2 APCCy7",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
