@@ -688,6 +688,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "I4": {
+      "name": "TNF PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
