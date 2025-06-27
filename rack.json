@@ -700,6 +700,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "J1": {
+      "name": "IL17A BV421",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
