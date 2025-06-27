@@ -718,6 +718,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "J4": {
+      "name": "IL17F Alexa Fluor (AF) 647",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
