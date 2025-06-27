@@ -612,8 +612,8 @@
       "in_use": false
     },
     "G1": {
-      "name": "",
-      "clone": "IFN-\u03b3 FITC",
+      "name": "IFN-\u03b3 FITC",
+      "clone": "",
       "fluor": "",
       "in_use": false
     },
