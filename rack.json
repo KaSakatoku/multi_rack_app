@@ -936,6 +936,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "F2": {
+      "name": "CX3CR1 APC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
