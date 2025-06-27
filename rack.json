@@ -742,6 +742,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "K4": {
+      "name": "GM-CSF PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
