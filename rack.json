@@ -760,6 +760,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "L2": {
+      "name": "Gata3 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
