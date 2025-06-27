@@ -616,6 +616,12 @@
       "clone": "IFN-\u03b3 FITC",
       "fluor": "",
       "in_use": false
+    },
+    "G2": {
+      "name": "",
+      "clone": "IFN-\u03b3 PECy7",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
