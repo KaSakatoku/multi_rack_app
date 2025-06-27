@@ -622,6 +622,12 @@
       "clone": "IFN-\u03b3 PECy7",
       "fluor": "",
       "in_use": false
+    },
+    "G3": {
+      "name": "IFN \u03b3 Alexa647",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
