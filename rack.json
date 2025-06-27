@@ -816,6 +816,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "A5": {
+      "name": "CD90.1 AF647",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
