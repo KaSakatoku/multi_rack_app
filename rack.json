@@ -1028,6 +1028,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "B2": {
+      "name": "IgG1 isotype Ctrl",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
