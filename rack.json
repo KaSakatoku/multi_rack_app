@@ -822,6 +822,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "B1": {
+      "name": "CD90.1 (Thy1.1) PerCP",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
