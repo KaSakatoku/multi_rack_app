@@ -724,6 +724,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "J5": {
+      "name": "IL17F PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
