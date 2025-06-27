@@ -1058,6 +1058,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "C4": {
+      "name": "mIgG1 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
