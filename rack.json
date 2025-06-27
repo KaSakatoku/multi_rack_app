@@ -1034,6 +1034,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "B4": {
+      "name": "IgG1 PE isotype Ctrl",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
