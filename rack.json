@@ -1016,6 +1016,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "A3": {
+      "name": "IgG BV421",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
