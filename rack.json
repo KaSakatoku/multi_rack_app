@@ -906,6 +906,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "E2": {
+      "name": "CCR2 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
