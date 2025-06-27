@@ -954,6 +954,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "F5": {
+      "name": "CXCR6 APC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
