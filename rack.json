@@ -736,6 +736,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "K3": {
+      "name": "GM-CSF FITC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
