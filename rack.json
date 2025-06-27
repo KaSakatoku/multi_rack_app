@@ -694,6 +694,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "I5": {
+      "name": "TNF\u03b1 APC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
