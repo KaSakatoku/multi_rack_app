@@ -996,6 +996,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "H5": {
+      "name": "B220 FITC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
