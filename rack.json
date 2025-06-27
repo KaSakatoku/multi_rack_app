@@ -990,6 +990,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "H4": {
+      "name": "B220 BV480",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
