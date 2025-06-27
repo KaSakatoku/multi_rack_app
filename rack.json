@@ -864,6 +864,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "C3": {
+      "name": "CD90.2 APC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
