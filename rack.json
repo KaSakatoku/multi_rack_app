@@ -870,6 +870,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "C4": {
+      "name": "CD90.2 PECy7",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
