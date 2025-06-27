@@ -930,6 +930,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "F1": {
+      "name": "CCR7 BV421",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
