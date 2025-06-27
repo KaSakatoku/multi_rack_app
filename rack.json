@@ -858,6 +858,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "C2": {
+      "name": "CD90.2 FITC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
