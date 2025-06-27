@@ -840,6 +840,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "B4": {
+      "name": "CD90.2 APCFire750",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
