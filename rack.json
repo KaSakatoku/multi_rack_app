@@ -792,7 +792,14 @@
       "in_use": false
     }
   },
-  "No3": {},
+  "No3": {
+    "A1": {
+      "name": "CD90.1 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
+    }
+  },
   "No4": {},
   "Stock Box": {
     "A1": {
