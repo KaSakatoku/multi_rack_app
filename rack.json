@@ -834,6 +834,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "B3": {
+      "name": "CD90.1 B450",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
