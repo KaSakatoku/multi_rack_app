@@ -748,6 +748,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "K5": {
+      "name": "GM-CSF PECy7",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
