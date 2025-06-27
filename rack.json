@@ -942,6 +942,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "F3": {
+      "name": "CXCR3 BV421",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
