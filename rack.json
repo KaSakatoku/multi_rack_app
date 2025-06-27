@@ -1040,6 +1040,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "B5": {
+      "name": "rIgG2b Biotin Isotype Ctrl",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
