@@ -810,6 +810,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "A4": {
+      "name": "CD90.1 APC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
