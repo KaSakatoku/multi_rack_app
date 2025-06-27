@@ -960,6 +960,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "G1": {
+      "name": "CCR7 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
