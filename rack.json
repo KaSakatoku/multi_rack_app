@@ -658,6 +658,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "H4": {
+      "name": "IL10 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
