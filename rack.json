@@ -640,6 +640,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "H1": {
+      "name": "IL4 APC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
