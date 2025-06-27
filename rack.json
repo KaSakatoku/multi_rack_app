@@ -664,6 +664,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "H5": {
+      "name": "IL13 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
