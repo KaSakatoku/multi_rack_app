@@ -628,6 +628,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "G4": {
+      "name": "IFN \u03b3 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
