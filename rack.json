@@ -1046,6 +1046,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "C2": {
+      "name": "rIgG2b PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
