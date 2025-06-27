@@ -1010,6 +1010,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "A2": {
+      "name": "IgG PE goat anti-mouse",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
