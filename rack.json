@@ -682,6 +682,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "I3": {
+      "name": "IL12/IL23p40 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
