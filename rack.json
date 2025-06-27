@@ -784,6 +784,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "M2": {
+      "name": "STAT5 AF647",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
