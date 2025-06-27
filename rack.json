@@ -730,6 +730,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "K2": {
+      "name": "GM-CSF APC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
