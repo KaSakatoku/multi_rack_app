@@ -676,6 +676,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "I2": {
+      "name": "IL22 APC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
