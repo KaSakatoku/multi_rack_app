@@ -852,6 +852,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "C1": {
+      "name": "CD90.2 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {},
