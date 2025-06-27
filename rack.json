@@ -754,6 +754,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "L1": {
+      "name": "IL6 APC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {},
