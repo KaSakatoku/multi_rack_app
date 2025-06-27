@@ -1004,7 +1004,14 @@
       "in_use": false
     }
   },
-  "No4": {},
+  "No4": {
+    "A1": {
+      "name": "IgG2a Biotin",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
+    }
+  },
   "Stock Box": {
     "A1": {
       "name": "aaa",
