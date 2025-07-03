@@ -790,6 +790,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "M3": {
+      "name": "GATA3 eFluor660 (eF)660",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {
