@@ -1254,6 +1254,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "O3": {
+      "name": "anti human CD2 FITC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No4": {
