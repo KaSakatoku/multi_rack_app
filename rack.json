@@ -814,6 +814,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "N2": {
+      "name": "pSTAT3 FITC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {
