@@ -1400,6 +1400,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "F1": {
+      "name": "SSEA-1 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
