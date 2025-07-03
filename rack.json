@@ -1544,6 +1544,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "L2": {
+      "name": "EpCAM (CD326) BV786",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
