@@ -880,6 +880,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "P3": {
+      "name": "Annexin V FITC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {
