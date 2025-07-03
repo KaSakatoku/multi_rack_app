@@ -1406,6 +1406,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "F3": {
+      "name": "ICOS PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
