@@ -844,6 +844,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "O2": {
+      "name": "Ki67 PECy7",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {
