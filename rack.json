@@ -1538,6 +1538,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "L1": {
+      "name": "EpCAM (CD326) PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
