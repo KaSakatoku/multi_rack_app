@@ -868,6 +868,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "P1": {
+      "name": "PD-1 AF647",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {
