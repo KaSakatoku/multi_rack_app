@@ -1454,6 +1454,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "I1": {
+      "name": "CD200 APC",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
