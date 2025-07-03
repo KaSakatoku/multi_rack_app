@@ -802,6 +802,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "M5": {
+      "name": "Foxp3 AF488",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {
