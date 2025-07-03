@@ -1460,6 +1460,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "I2": {
+      "name": "CD200 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
