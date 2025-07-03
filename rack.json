@@ -1388,6 +1388,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "E4": {
+      "name": "CXCR4 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
