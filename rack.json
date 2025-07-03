@@ -1382,6 +1382,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "E1": {
+      "name": "CXCR5 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
