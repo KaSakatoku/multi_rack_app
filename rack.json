@@ -1418,6 +1418,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "G2": {
+      "name": "TLR5 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "Stock Box": {
