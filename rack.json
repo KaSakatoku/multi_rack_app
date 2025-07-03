@@ -838,6 +838,12 @@
       "clone": "",
       "fluor": "",
       "in_use": false
+    },
+    "O1": {
+      "name": "Ki67 PE",
+      "clone": "",
+      "fluor": "",
+      "in_use": false
     }
   },
   "No3": {
