@@ -22,9 +22,10 @@
       "fluor": ""
     },
     "A5": {
-      "name": "CD4 BV650 RM4-5",
+      "name": "CD4 BV605 RM4-4",
       "clone": "",
-      "fluor": ""
+      "fluor": "",
+      "in_use": false
     },
     "B1": {
       "name": "CD8a BV421",
